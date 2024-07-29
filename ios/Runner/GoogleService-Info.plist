@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>946461993890-lvs9db6fkgrlrf4692c91llovq258eqv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.946461993890-lvs9db6fkgrlrf4692c91llovq258eqv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQHsNFgzqIDN1usXFbwgD-eUuWiP1Q8xk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946461993890</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cleanAndGreen</string>
+	<key>PROJECT_ID</key>
+	<string>cleanandgreen-ba9bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cleanandgreen-ba9bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946461993890:ios:05da05fb9fa9594467e0fb</string>
+</dict>
+</plist>

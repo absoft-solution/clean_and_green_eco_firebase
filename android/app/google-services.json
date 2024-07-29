@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669802372204",
+    "firebase_url": "https://clean-and-green-eco-default-rtdb.firebaseio.com",
+    "project_id": "clean-and-green-eco",
+    "storage_bucket": "clean-and-green-eco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669802372204:android:193742831c909ae3f7cc49",
+        "android_client_info": {
+          "package_name": "com.example.clean_and_green"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669802372204-pp31v527d9iujh1vg0bff1nletpqqh4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDquG8vbDpk9tf4-Zzuz4tiD3B1lqETEhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669802372204-pp31v527d9iujh1vg0bff1nletpqqh4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669802372204-7j5fqhdag3ih4t9ti3308al610a3h4h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cleanAndGreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
